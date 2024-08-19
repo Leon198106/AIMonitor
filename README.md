@@ -1,5 +1,8 @@
 # AIMonitor
 
+Keywords: AI Camera, AI Surveillance, AI Monitor, Large Model Camera, Large Model Surveillance, Large Model Monitor, AI Recognition, Large Model Recognition
+关键词：AI摄像机、AI监控、大模型摄像机、大模型监控、AI识别、大模型识别
+
 Multimodal Large-Language Model-Based Monitoring System: Utilizes specialized small models to enhance performance and reduce costs, while leveraging multimodal large-language models to improve accuracy.
 基于专用小模型+多模态大模型的监控技术：专用小模型用于提升性能，降低成本。多模态大模型用于提升准确率。
 
